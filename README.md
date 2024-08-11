@@ -1,1 +1,1 @@
-# MyDesignPatternsLiberary
+# MyDesignPatternsLibrary
